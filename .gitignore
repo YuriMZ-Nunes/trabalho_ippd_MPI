@@ -1,11 +1,6 @@
 # Dados da Simulação
 *.csv
 
-# Binários e Executáveis
-simulacao
-*.o
-*.out
-
 # Resultados de Imagem e Animações
 *.png
 
