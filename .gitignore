@@ -8,7 +8,6 @@ simulacao
 
 # Resultados de Imagem e Animações
 *.png
-*.gif
 
 # Pastas de Ambientes Virtuais ou Cache do Python
 __pycache__/
