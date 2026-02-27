@@ -1,0 +1,20 @@
+# Dados da Simulação
+*.csv
+
+# Binários e Executáveis
+simulacao
+*.o
+*.out
+
+# Resultados de Imagem e Animações
+*.png
+*.gif
+
+# Pastas de Ambientes Virtuais ou Cache do Python
+__pycache__/
+.venv/
+.env
+
+# Ficheiros de Sistema
+.DS_Store
+Thumbs.db
